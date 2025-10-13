@@ -1,0 +1,18 @@
+# Python cache and virtual environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Large model files (should be downloaded separately as per README)
+*.caffemodel
+*.h5
+
+# Generated data
+dataset/
+alerts/
+
+# OS-specific files
+.DS_Store
