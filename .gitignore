@@ -1,0 +1,31 @@
+# Python artifacts
+venv/
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
+
+# Dataset and model artifacts
+*.h5
+*.pt
+data/
+# Python cache and virtual environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Large model files (should be downloaded separately as per README)
+*.caffemodel
+*.h5
+
+# Generated data
+dataset/
+raw_data/
+alerts/
+
+# OS-specific files
+.DS_Store
