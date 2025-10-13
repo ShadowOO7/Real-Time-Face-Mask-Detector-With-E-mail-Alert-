@@ -1,6 +1,3 @@
-# New Initial Project
-
-This repository was reset to start from a clean initial state. See `START_HERE.md` for the step-by-step process for this reset and how to upload your new project files.
 # Real-time Face Mask Coverage Detector (OpenCV + MobileNetV2)
 
 A real-time face mask detector and *approximate coverage* visualizer built with OpenCV and TensorFlow/Keras.
